@@ -27,5 +27,7 @@ public class CandlestickFactory {
 
 		return new Candlestick(abertura, fechamento, minimo, maximo, volume, data);
 	}
+	
+	
 
 }
